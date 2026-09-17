@@ -1,0 +1,20 @@
+{
+  "name": "NovaLend KYC — Design Prototype",
+  "short_name": "NovaLend Demo",
+  "description": "A mobile product-design prototype. Uses sample data and simulated camera screens.",
+  "id": "./",
+  "start_url": "./?state=splash",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#002B5C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "novalend-kyc-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check screens.js && node --check components.js && node --check server.mjs"
+  }
+}
